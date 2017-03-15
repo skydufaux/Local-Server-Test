@@ -1,6 +1,6 @@
 # Local-Server-Test
 
-We will be setting up a local server on my machine and create a complete Python/ Apache/ mySQL environment
+We will be setting up a local server on my machine and create a complete Python/ Apache/ PostgreSQL environment
 
 Step 1: Create local host on my machine
 Download MAMP
@@ -18,7 +18,7 @@ Part I – Working environment and start a Django Project
 
 Building your Working environment
 Install Django 1.8
-Working directory and Sublime Text
+Working directory and Sublime Text (Pycharm?)
 Obey the Testing Goat
 Create a Django project
 Start a development server
